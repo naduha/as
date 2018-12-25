@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "sum.h"
 
 
 
@@ -32,7 +32,7 @@ int main()
 	}
 	case 3:
 	{
-		cout << "ne 7otobo" << endl ;
+		cout << MySum(a,b) << endl ;
 		break;
 	}
 	case 4:
