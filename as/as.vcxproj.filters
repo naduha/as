@@ -18,18 +18,32 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="sum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Ymn.cpp">
+=======
+    <ClCompile Include="minus.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="del.cpp">
+>>>>>>> 8c7f326550f5634aff87d67d039bcff9eea6a73c
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="sum.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="ymn.h">
+=======
+    <ClInclude Include="minus.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="del.h">
+>>>>>>> 8c7f326550f5634aff87d67d039bcff9eea6a73c
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
