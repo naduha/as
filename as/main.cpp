@@ -1,6 +1,6 @@
 #include <iostream>
 #include "sum.h"
-
+#include "ymn.h"
 
 
 
@@ -37,7 +37,7 @@ int main()
 	}
 	case 4:
 	{
-		cout << "He 7oToBo" << endl;
+		cout << MyYmn(a,b) << endl;
 		break;
 	}
 	}

@@ -21,9 +21,15 @@
     <ClCompile Include="sum.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Ymn.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sum.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ymn.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
