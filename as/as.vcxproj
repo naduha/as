@@ -115,10 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="del.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="minus.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="del.h" />
     <ClInclude Include="minus.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
